@@ -1,5 +1,5 @@
 # WordPress
-Study from LinkedIn Learning - **WordPress 5 Essential Training** by **Morten Rand-Hendriksen**
+Study from LinkedIn Learning - **WordPress Essential Training** by **Morten Rand-Hendriksen**
 
 ## Learning objectives
 
